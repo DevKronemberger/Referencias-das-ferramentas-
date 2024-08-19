@@ -1,0 +1,17 @@
+python: https://www.python.org/downloads/
+https://docs.python.org/pt-br/3/tutorial/
+windows power shell: https://learn.microsoft.com/pt-br/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4#winget
+https://learn.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.4
+git: https://git-scm.com/download/win
+https://git-scm.com/doc
+sqlite browser: https://sqlitebrowser.org/dl/
+https://github.com/sqlitebrowser/sqlitebrowser/wiki
+visual studio code: https://code.visualstudio.com/Download
+https://code.visualstudio.com/docs
+
+
+Utilidade de cada ferramenta relacionada com o conteúdo do curso:
+python: linguagem de programação para aplicações da web; possui uma sintaxe básica; interação com java,C e C++; pode ser utilizado em diferentes sistemas como windows, mac e linux;
+git: sistema de controle para uma equipe manter ordem, evita a desorganização do projeto;
+sqlite browser: 
+vs code: editor de texto com linguagens populares (java script, python, C++, etc)
